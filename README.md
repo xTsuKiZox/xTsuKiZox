@@ -3,7 +3,7 @@
 <p> My name is TsuKiZo and i'm a developer, from France</p>
 
 ## About me
-
+I am an independent developer who develops projects.
 <!---- 📚 I'm currently a student at Gobelins CCI Annecy,-->
 <!--- 🎯 Goal : learn more and speak code 🚀-->
 
